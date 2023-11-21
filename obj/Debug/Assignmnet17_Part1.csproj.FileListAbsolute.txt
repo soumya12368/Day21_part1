@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\bin\Debug\Assignmnet17_Part1.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\bin\Debug\Assignmnet17_Part1.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\bin\Debug\Assignmnet17_Part1.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\obj\Debug\Assignmnet17_Part1.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\obj\Debug\Assignmnet17_Part1.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\obj\Debug\Assignmnet17_Part1.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day12\Assignmnet17_Part1\Assignmnet17_Part1\obj\Debug\Assignmnet17_Part1.pdb
